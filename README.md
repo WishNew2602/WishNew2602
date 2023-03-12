@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @WishNew2602
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python,AI,ML.
+- 👀 I’m interested in Spring Micro services
+- 🌱 I’m currently learning Different technologies
+- :) i can do automation 
+- 💞️ I’m looking to collaborate on Java development
 - 📫 How to reach me vishnu14321432@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WishNew2602
 - 👀 I’m interested in SDET
-- 🌱 I’m currently working QA Automation Engineer
+- 🌱 I’m currently working SDET in coforge
 - :) I Can Automate Software.
 - 💞️ I’m looking to collaborate on Test Development Projects.
 - 📫 How to reach me vishnu14321432@gmail.com and 6304661070

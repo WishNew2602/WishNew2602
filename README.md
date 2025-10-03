@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Vishnu (WishNew2602)
 
 [![GitHub followers](https://img.shields.io/github/followers/WishNew2602?label=Follow&style=social)](https://github.com/WishNew2602)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vishnu-vardhan-kota-aa709b200/)  
 
 ---
 
@@ -75,5 +74,3 @@ I’m open to collaborating on **test development, automation frameworks, open s
 > “I Can Automate Software.”  
 
 ---
-
-*This README was auto-generated / templated — feel free to personalize or expand any section.*  

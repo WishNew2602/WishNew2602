@@ -49,7 +49,7 @@ Here are a few of the projects I’m proud of:
 ## 📂 Repository Organization & Contribution
 
 - Each project is contained in its own repo with its own README, architecture layout, and documentation.
-- I welcome feedback, suggestions, and contributions. Please check out the `CONTRIBUTING.md` in repos before raising PRs or issues.
+- I welcome feedback, suggestions, and contributions.
 
 ---
 

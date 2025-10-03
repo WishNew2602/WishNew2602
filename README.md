@@ -65,7 +65,7 @@ Here are a few of the projects I’m proud of:
 
 - 📧 Email: `vishnu14321432@gmail.com`  
 - 📱 Phone: `+91-6304661070`  
-- 🔗 LinkedIn / Twitter: (Add your handles)  
+- 🔗 Instagram: https://www.instagram.com/vishnuvardhanreddy2602/ 
 
 I’m open to collaborating on **test development, automation frameworks, open source SDET projects** — feel free to reach out!
 
